@@ -6,8 +6,6 @@
 <p align="left">
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/wassef-ben-ahmed/)
-
-[<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV" title="DEV" height="30" />](https://dev.to/wassef911)
   
 </p>
 
