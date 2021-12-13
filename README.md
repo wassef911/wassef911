@@ -2,9 +2,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wassef911&show_icons=true&theme=dracula)" alt="wassef911" /></p>
 
-## 🔍  Where to find me:
-<p align="left">
-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/wassef-ben-ahmed/)
   
 </p>
