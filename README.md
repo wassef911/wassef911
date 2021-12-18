@@ -7,7 +7,7 @@
   
 <div align="center">🤯 currently learning about microservices / microfrontends...</div>
 
-  <p align=center>
+ <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=wassef911&theme=react&border=61dafb&hide_border=true" alt="MedSabkhi21" />
@@ -16,7 +16,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=wassef911&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  
-  <br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br>  <br><br><br><br>
     <img src="https://activity-graph.herokuapp.com/graph?username=wassef911&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    
 </p>
