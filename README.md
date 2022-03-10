@@ -5,7 +5,7 @@
 </div>
   <br><br>
   
-<div align="center">🤯 currently learning to write functions/loops and stuff ...</div>
+<div align="center">🤯 currently learning to learning to breathe...</div>
 
  <p align=center>
   <div align=center>
